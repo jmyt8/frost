@@ -1,0 +1,20 @@
+{
+    "name": "jmyt8/frost",
+    "type": "wordpress-theme",
+    "description": "",
+    "keywords": [
+        "WordPress",
+        "Themes"
+    ],
+    "homepage": "https://github.com/jmyt8/frost",
+    "authors": [
+        {
+            "name": "Contributors",
+            "homepage": "https://github.com/jmyt8/"
+        }
+    ],
+    "require": {
+    },
+    "require-dev": {
+    }
+}
